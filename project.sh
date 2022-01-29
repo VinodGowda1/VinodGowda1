@@ -1,1 +1,1 @@
-echo " edited running in the github project"
+echo " edited the running in the github project"
